@@ -54,7 +54,7 @@
 
 ####  Haz tus cambios y commits
 - git add .
-- git commit -m "feat(component): create reusable button"
+- git commit -m "feat: create reusable button"
 
 ####  Sube la rama
 git push origin feature/new-component
